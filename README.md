@@ -18,4 +18,4 @@
 [คลิปวิดิโอ]( https://youtu.be/bAzo9Q8mO7Y)
 ----------
 Microcontroller ESP32 Picture
-![ูดูรูปภาพ](พร้อมส่ง-ESP32-CAM-โมดูล-WiFi-ESP32-CAMERA-บอร์ด-5V-บลูทูธ-OV2640-Module-CPU-240MHz-WiFi-Bluetooth-i.10132841)
+![ูดูรูปภาพ](https://drive.google.com/open?id=1J8wajg6Amd_NQgqnEtDbW4LHlmMSByuI)
